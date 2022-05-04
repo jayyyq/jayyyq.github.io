@@ -45,13 +45,19 @@ main {
 
 main > .intro {
 	font-family: 'Roboto', sans-serif;
-	font-size: 3.5em;
+	font-size: 4em;
 	font-weight: 600;
 }
 
 main > .tagline {
 	font-size: 1.5rem;
 	margin: 1rem 0;
+	font-weight: 100;
+}
+
+main > .tag1 {
+	font-size: 0.8rem;
+	margin:  0.5rem 0;
 	font-weight: 100;
 }
 
